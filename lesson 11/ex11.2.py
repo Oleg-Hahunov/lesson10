@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 import untils
-import json
+
 
 app = Flask(__name__)
 
